@@ -1,0 +1,30 @@
+MissionID,MissionDate,MissionType,Team,Location,ThreatLevel,DurationHours,TeamsDeployed,Outcome,OperatingCost,InfrastructureDamage,RepairCost
+2,2025-01-28,Patrol,Bravo,"Fort Worth, TX",Low,5.0,1,Success,25000.00,6000.00,5200.00
+3,2025-02-09,Investigation,Charlie,"Austin, TX",Moderate,7.5,1,Success,35000.00,9000.00,7800.00
+4,2025-02-22,Extraction,Delta,"Houston, TX",Moderate,6.0,1,Success,50000.00,28000.00,24000.00
+5,2025-03-08,Rescue,Echo,"San Antonio, TX",Moderate,8.5,1,Success,100000.00,42000.00,38000.00
+6,2025-03-24,Containment,Foxtrot,"El Paso, TX",High,9.0,1,Partial Success,125000.00,95000.00,82000.00
+7,2025-04-05,Evacuation,Gamma,"Galveston, TX",High,12.0,1,Success,175000.00,110000.00,96000.00
+8,2025-04-21,Disaster Response,Alpha,"Oklahoma City, OK",High,18.0,2,Success,500000.00,310000.00,275000.00
+9,2025-05-04,Combat,Bravo,"Tulsa, OK",Very High,10.5,1,Success,300000.00,420000.00,365000.00
+10,2025-05-19,Major Threat,Charlie,"Little Rock, AR",Very High,14.0,2,Partial Success,1000000.00,980000.00,845000.00
+11,2025-06-02,Catastrophic Event,Delta,"New Orleans, LA",Extreme,26.0,3,Success,3000000.00,4200000.00,3650000.00
+12,2025-06-18,Reconnaissance,Echo,"Baton Rouge, LA",Low,4.0,1,Success,15000.00,1800.00,1500.00
+13,2025-07-03,Patrol,Foxtrot,"Shreveport, LA",Low,6.0,1,Success,25000.00,7500.00,6400.00
+14,2025-07-17,Investigation,Gamma,"Memphis, TN",Moderate,9.5,1,Success,35000.00,12000.00,10000.00
+15,2025-08-01,Extraction,Alpha,"Nashville, TN",High,8.0,1,Partial Success,50000.00,65000.00,57000.00
+16,2025-08-16,Rescue,Bravo,"Jackson, MS",High,11.0,1,Success,100000.00,88000.00,76000.00
+17,2025-09-02,Containment,Charlie,"Birmingham, AL",High,13.0,1,Failure,125000.00,260000.00,230000.00
+18,2025-09-20,Evacuation,Delta,"Mobile, AL",High,15.5,2,Success,350000.00,175000.00,148000.00
+19,2025-10-06,Disaster Response,Echo,"Pensacola, FL",Very High,20.0,2,Success,500000.00,540000.00,470000.00
+20,2025-10-25,Combat,Foxtrot,"Tampa, FL",Very High,12.0,1,Partial Success,300000.00,690000.00,610000.00
+21,2025-11-09,Major Threat,Gamma,"Orlando, FL",Very High,16.5,2,Success,1000000.00,760000.00,655000.00
+22,2025-11-27,Catastrophic Event,Alpha,"Miami, FL",Extreme,30.0,3,Partial Success,3000000.00,5800000.00,5100000.00
+23,2025-12-14,Investigation,Bravo,"Atlanta, GA",Moderate,6.5,1,Success,35000.00,5000.00,4300.00
+24,2026-01-08,Extraction,Charlie,"Savannah, GA",Moderate,7.0,1,Success,50000.00,22000.00,19000.00
+25,2026-02-03,Rescue,Delta,"Charlotte, NC",High,10.0,1,Success,100000.00,52000.00,45000.00
+26,2026-03-01,Containment,Echo,"Raleigh, NC",High,12.5,1,Success,125000.00,115000.00,99000.00
+27,2026-04-11,Combat,Foxtrot,"Richmond, VA",Very High,13.0,2,Failure,600000.00,1250000.00,1100000.00
+28,2026-05-23,Major Threat,Gamma,"Washington, DC",Very High,17.0,2,Success,1000000.00,620000.00,535000.00
+29,2026-07-04,Disaster Response,Alpha,"Baltimore, MD",High,19.0,2,Success,500000.00,350000.00,305000.00
+30,2026-08-29,Catastrophic Event,Bravo,"Philadelphia, PA",Extreme,28.0,3,Success,3000000.00,3900000.00,3400000.00

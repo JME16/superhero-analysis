@@ -1,0 +1,11 @@
+EventTypeID,EventType,TypicalDamageLow,TypicalDamageHigh,DamageTolerance,Notes
+E01,Theft / Infiltration,25000.00,500000.00,Very Low,Localized property or equipment loss; limited structural damage.
+E02,Hostage / Facility Attack,250000.00,5000000.00,Low,Single facility or small complex; evacuation and tactical response.
+E03,Urban Combat,5000000.00,75000000.00,Very High,Multiple structures or city blocks affected by hostile engagement.
+E04,Infrastructure Attack,10000000.00,150000000.00,High,"Bridges, transit, utilities, ports, communications, or energy systems."
+E05,Mass-Casualty Threat,25000000.00,300000000.00,Very High,Large emergency footprint; prevention may still produce major collateral damage.
+E06,City-Scale Assault,100000000.00,1000000000.00,Extreme,Widespread urban destruction; multiple systems and districts affected.
+E07,Planetary / Catastrophic Threat,500000000.00,5000000000.00,Extreme,Exceptional outlier category; use separately in comparisons where appropriate.
+E08,Environmental Attack,5000000.00,200000000.00,High,"Environmental contamination, vegetation, water, air, or ecosystem impacts."
+E09,Transport / Port Sabotage,1000000.00,50000000.00,Moderate,"Airports, rail, roads, ports, shipping, or mass transit affected."
+E10,Targeted Tactical Attack,100000.00,3000000.00,Low,"Small-footprint targeted action, assassination attempt, or tactical strike."

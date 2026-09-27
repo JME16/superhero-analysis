@@ -1,0 +1,21 @@
+VillainID,VillainName,OriginType,PrimaryThreatType,ThreatLevel,Affiliation,DamageProfile
+V001,Lex Luthor,Human / Technology,Strategic,Severe,Corporate / organized,"Technology, infrastructure, political leverage"
+V002,Joker,Human,Terror / Chaos,High,Independent,"Urban disruption, hostage events, explosives"
+V003,Brainiac,Alien / AI,Technology / Invasion,Catastrophic,Independent,"City-scale technology seizure, infrastructure collapse"
+V004,Darkseid,New God,Invasion / Combat,Catastrophic,Apokolips,"Mass destruction, invasion, catastrophic combat"
+V005,Reverse-Flash,Metahuman,Speed / Temporal,Severe,Independent,"High-speed infrastructure damage, temporal disruption"
+V006,Sinestro,Alien,Energy / Combat,Severe,Sinestro Corps,"Energy attacks, aerial combat, infrastructure damage"
+V007,Cheetah,Metahuman,Combat / Theft,High,Independent,"Localized combat, theft, structural damage"
+V008,Black Manta,Human / Technology,Sabotage / Combat,High,Independent,"Marine infrastructure, ports, technology"
+V009,Deathstroke,Enhanced Human,Assassination / Tactical,High,Contract / Independent,"Targeted attacks, facility damage"
+V010,Bane,Enhanced Human,Terror / Combat,High,Independent,"Urban attacks, structural damage"
+V011,Ra's al Ghul,Human,Strategic / Terror,Severe,League of Assassins,"Infrastructure sabotage, mass-casualty threats"
+V012,General Zod,Kryptonian,Combat / Invasion,Catastrophic,Kryptonian faction,"City-scale combat, extreme structural damage"
+V013,Metallo,Cyborg,Combat / Technology,Severe,Independent,"Heavy urban combat, energy damage"
+V014,Poison Ivy,Metahuman,Environmental / Terror,High,Independent,"Environmental damage, utilities, urban disruption"
+V015,Captain Cold,Human / Technology,Theft / Infrastructure,Moderate,Rogues,"Localized freezing, transit/utilities disruption"
+V016,Gorilla Grodd,Metahuman,Mind Control / Combat,Severe,Independent,"Urban disorder, mass disruption, structural damage"
+V017,Black Adam,Metahuman,Combat / Strategic,Catastrophic,Independent,Extreme combat and infrastructure damage
+V018,Doomsday,Kryptonian creature,Combat / Destruction,Catastrophic,Independent,Uncontrolled city-scale destruction
+V019,Two-Face,Human,Crime / Hostage,Moderate,Organized crime,"Localized property damage, hostage incidents"
+V020,Scarecrow,Human,Chemical / Terror,High,Independent,"Mass panic, transportation and public-facility disruption"

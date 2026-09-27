@@ -1,0 +1,31 @@
+MissionID,VillainID,EventTypeID,ActualDamage,EstimateStatus,EstimateConfidence,DamageAttribution,AnalystNote
+1,V015,E01,180000.00,Final,High,Villain,Localized theft with freeze damage to commercial property.
+2,V007,E01,420000.00,Final,High,Villain,Museum theft and localized structural damage.
+3,V009,E10,650000.00,Final,High,Villain,Targeted facility attack with limited collateral damage.
+4,V019,E02,1250000.00,Final,High,Villain,Hostage event at commercial complex.
+5,V002,E02,4800000.00,Final,High,Villain,Hostage incident with explosives and evacuation damage.
+6,V020,E05,36000000.00,Preliminary,Medium,Mixed / Unknown,Mass panic caused secondary transportation and property damage.
+7,V014,E08,18500000.00,Final,Medium,Villain,Urban environmental event affecting utilities and public space.
+8,V008,E09,22000000.00,Final,High,Villain,Port sabotage and marine infrastructure damage.
+9,V010,E03,14500000.00,Final,High,Mixed,Urban combat; some response-related collateral damage.
+10,V013,E03,58000000.00,Final,High,Mixed,Heavy urban combat with substantial structural damage.
+11,V001,E04,87000000.00,Final,High,Villain,Coordinated infrastructure attack targeting energy and communications.
+12,V011,E04,132000000.00,Preliminary,Medium,Villain,Multi-site infrastructure sabotage; estimate still under review.
+13,V005,E09,44000000.00,Final,Medium,Mixed,High-speed incident damaged transit corridors and surrounding property.
+14,V016,E05,168000000.00,Final,Medium,Mixed,Mind-control event created widespread disorder and secondary damage.
+15,V006,E03,72000000.00,Final,High,Mixed,Aerial energy combat over dense urban area.
+16,V017,E06,410000000.00,Final,High,Mixed,City-scale combat with major infrastructure loss.
+17,V012,E06,825000000.00,Final,High,Mixed,Kryptonian assault caused widespread structural destruction.
+18,V018,E06,980000000.00,Preliminary,Low,Mixed / Unknown,Extreme destruction; preliminary estimate likely to change.
+19,V003,E07,2400000000.00,Preliminary,Medium,Villain,City systems seizure and regional infrastructure collapse.
+20,V004,E07,4700000000.00,Preliminary,Low,Mixed / Unknown,Catastrophic invasion event; damage assessment incomplete.
+21,V001,E02,2900000.00,Final,High,Villain,Low-footprint strategic facility attack.
+22,V002,E03,21000000.00,Final,Medium,Villain,Urban explosive attack; several structures damaged.
+23,V015,E09,7800000.00,Final,High,Villain,Transit disruption and freeze damage.
+24,V007,E10,950000.00,Final,High,Mixed,Targeted engagement with limited collateral damage.
+25,V008,E04,64000000.00,Final,High,Villain,Coastal utility and port infrastructure attack.
+26,V014,E08,74000000.00,Preliminary,Medium,Villain,Environmental damage spread beyond initial response zone.
+27,V010,E02,3600000.00,Final,High,Villain,Facility assault and hostage extraction.
+28,V005,E03,49000000.00,Final,Medium,Mixed,High-speed combat through commercial district.
+29,V013,E04,118000000.00,Final,High,Mixed,Power-grid attack escalated into heavy combat.
+30,V011,E05,255000000.00,Preliminary,Medium,Villain,Coordinated mass-casualty threat with multi-site damage.
