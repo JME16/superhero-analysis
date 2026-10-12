@@ -191,3 +191,20 @@ the limits of the available data.
 
 **Analytical Principle:** An observed discrepancy justifies investigation but does not establish causation.
 
+## Question 5: Team Operating Cost and Mission Effectiveness
+
+### Containment Comparison: Echo and Foxtrot
+
+**Finding:** Echo completed Mission 26 (Containment, High threat) with full Success, while Foxtrot completed Mission 6 (Containment, High threat) with Partial Success. Both missions recorded $125,000 in operating costs and deployed four heroes.
+
+- **Echo, Mission 26:** Poison Ivy; $1,150,000 infrastructure damage; $99,000 repair cost; 12.5 hours; full Success.
+- **Foxtrot, Mission 6:** Scarecrow; $950,000 infrastructure damage; $82,000 repair cost; 9 hours; Partial Success.
+
+**Personnel Comparison:** Echo deployed Thor, Wonder Woman, Iron Man, and Leia Organa. Foxtrot deployed Gohan, Captain America, Flash, and Bulma. No heroes overlapped between these two missions. Gohan ($40,440.08) and Thor ($39,267.99) had the highest recorded hero-attributed damage within their respective missions.
+
+**Interpretation:** Echo achieved the stronger recorded mission outcome, but Foxtrot had $200,000 less infrastructure damage and $17,000 less repair cost. Success and damage control therefore need separate evaluation; lower damage does not automatically imply greater mission effectiveness.
+
+**Limitation:** The missions involved different villains and unknown mission objectives and tactical conditions. Identical mission-type and threat-level labels do not establish equivalent difficulty. The data do not support a causal claim that team composition or individual hero damage determined the outcome.
+
+**Recommendation:** Preserve Echo's successful Containment result as a useful comparison point, while reviewing Foxtrot's readiness and mission requirements before considering changes to deployment. A definitive ranking of the teams is not justified by these two missions.
+
