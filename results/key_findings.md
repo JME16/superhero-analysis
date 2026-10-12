@@ -191,9 +191,9 @@ the limits of the available data.
 
 **Analytical Principle:** An observed discrepancy justifies investigation but does not establish causation.
 
-## Question 5: Team Operating Cost and Mission Effectiveness
+### Question 4A: Team Operating Cost and Mission Effectiveness
 
-### Containment Comparison: Echo and Foxtrot
+#### Containment Comparison: Echo and Foxtrot
 
 **Finding:** Echo completed Mission 26 (Containment, High threat) with full Success, while Foxtrot completed Mission 6 (Containment, High threat) with Partial Success. Both missions recorded $125,000 in operating costs and deployed four heroes.
 
