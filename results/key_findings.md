@@ -170,3 +170,24 @@ provide additional evidence for a deployment decision.
 The final recommendation should identify an actionable
 response supported by the evidence, while acknowledging
 the limits of the available data.
+
+## Question 4: Expected vs. Actual Hero Damage
+
+**Finding:** Across seven teams and 30 missions, Delta recorded the largest positive hero-attributed damage variance at +$1,613,681.50 (+20.1%). Foxtrot recorded +$64,010.93 (+2.7%).
+
+**Delta Investigation:** Almost all of Delta's positive variance originated from Mission 11, an Extreme-threat Catastrophic Event that ended in Success. Delta successfully completed all four recorded missions. Its elevated variance therefore does not independently establish poor team performance.
+
+**Foxtrot Investigation:** Foxtrot's overall variance concealed differences between individual missions. Mission 20 recorded -$13,786.21 and ended in Partial Success. Mission 27 recorded +$75,849.24 and ended in Failure.
+
+**Personnel Analysis:** Foxtrot deployed four recorded heroes in Mission 20 and eight in Mission 27. Four heroes participated in both. Mission 27's individual positive and negative damage variances partially offset one another, demonstrating how aggregate results can conceal individual discrepancies.
+
+**Operational Discrepancy:** Mission 27 involved higher recorded operating costs, infrastructure damage, repair costs, and personnel deployment than Mission 20, but achieved a worse outcome. The missions differed in location, adversary, personnel composition, and duration, limiting direct comparisons.
+
+**Interpretation:** Hero-attributed damage variance alone does not explain mission success or failure. Mission difficulty, team composition, and other operational conditions must be considered when interpreting the results.
+
+**Project Assumptions and Limitations:** Resource distribution was standardized by design in the dataset. This does not establish optimal allocation for individual missions. Detailed mission planning and deployment rationale are not available for analysis. These questions should be referred to a separate operational review rather than assigned speculative causes.
+
+**Recommendation:** Prioritize a Foxtrot combat-readiness review and targeted training assessment before making permanent deployment or restructuring decisions. Further operational analysis is required to determine why Mission 27 failed.
+
+**Analytical Principle:** An observed discrepancy justifies investigation but does not establish causation.
+

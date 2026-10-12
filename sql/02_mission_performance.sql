@@ -83,3 +83,25 @@ SELECT
 					    foxtrot.missiontype,
 					    foxtrot.outcome
 					ORDER BY foxtrot.missiondate;
+
+-- Question 4: Expected vs. Actual Hero Damage
+-- Team-level comparison across all recorded missions
+
+SELECT
+    mission.team,
+    COUNT(DISTINCT mission.missionid) AS total_missions,
+    SUM(agentmissioncostprofile.expecteddamage)
+        AS total_expected_damage,
+	    SUM(missionagents.actualdamage)
+	        AS total_actual_damage,
+		    SUM(missionagents.actualdamage)
+		        - SUM(agentmissioncostprofile.expecteddamage)
+			        AS damage_variance
+				FROM mission
+				JOIN missionagents
+				    USING (missionid)
+				JOIN agentmissioncostprofile
+				    ON missionagents.agent = agentmissioncostprofile.agent
+				   AND mission.missiontype = agentmissioncostprofile.missiontype
+				GROUP BY mission.team
+				ORDER BY damage_variance DESC;
