@@ -1,3 +1,5 @@
+Young Ranger added themselves as a contributor to this project.  I do not know this individual and they have not been asked to contribute, have not done anything for this project.  
+
 Superhero Operations Analysis
 
 ## Project Overview
