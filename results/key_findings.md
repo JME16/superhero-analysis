@@ -157,19 +157,16 @@ remains unverified because Foxtrot's recorded success
 was in Patrol, not Reconnaissance.
 
 
-### Next Investigation
+### Subsequent Investigation and Scope
 
-Compare Foxtrot's assigned personnel and expected
-versus actual damage against Bravo's successful
-Very High threat Combat mission.
+The initial Foxtrot investigation led to additional mission-level and
+individual-agent expected-versus-actual damage comparisons, documented
+under Question 4 below. The review examined Foxtrot's mission mix,
+personnel, outcomes, cost, and available adversary context.
 
-Determine whether differences in personnel composition,
-damage performance, or other recorded mission factors
-provide additional evidence for a deployment decision.
-
-The final recommendation should identify an actionable
-response supported by the evidence, while acknowledging
-the limits of the available data.
+These observations support a targeted readiness review, but do not
+establish why Foxtrot's higher-threat missions underperformed. Detailed
+planning, availability, and allocation decisions remain outside scope.
 
 ## Question 4: Expected vs. Actual Hero Damage
 
@@ -219,3 +216,14 @@ the limits of the available data.
 **Scope boundary:** These records cannot establish the suitability of individual resource-allocation decisions or the causes of mission outcomes. Mission planning, readiness, and assignment rationale are suitable questions for a separate operational investigation.
 
 **Analytical lesson:** AI-generated data should be examined for structural assumptions and plausibility, not treated as authoritative merely because SQL computations are valid.
+
+
+## Final Operational Synthesis
+
+**Decision question:** Do differences in team outcomes and operating costs demonstrate operational effectiveness, or are they partly explained by mission assignments and limitations in the synthetic cost model?
+
+**Findings:** Team averages alone cannot establish efficiency. Echo recorded 4/4 full successes at an average operating cost of $185,000, but its portfolio included lower-cost Rescue and Reconnaissance work alongside higher-threat assignments. The three recorded High-threat Containment missions all cost $125,000 yet produced different outcomes for Echo (Success), Foxtrot (Partial Success), and Charlie (Failure). Combat operating costs were not fully uniform: Foxtrot Mission 27 recorded $600,000 and two teams deployed. Repeated values are consistent with cost-model assumptions; the formula was not independently verified.
+
+**Management recommendation:** Use mission-type and threat-aware outcome reviews rather than a simple cost ranking. Prioritize an evidence-gathering readiness and training review for Foxtrot's Combat and Containment work. Examine successful comparable missions for practices worth testing, without assuming that differences in personnel or costs caused outcomes. Defer conclusions about deployment planning and resource-allocation suitability until appropriate operational records are available.
+
+**Project boundary:** No new analytical questions are required for the current portfolio baseline. Further planning, readiness, and cost-model validation questions are documented as future investigations, not represented as completed work.
