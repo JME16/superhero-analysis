@@ -208,3 +208,14 @@ the limits of the available data.
 
 **Recommendation:** Preserve Echo's successful Containment result as a useful comparison point, while reviewing Foxtrot's readiness and mission requirements before considering changes to deployment. A definitive ranking of the teams is not justified by these two missions.
 
+## Methodology Notes: Synthetic Data and AI Collaboration
+
+**Provenance:** The project analyzes a fictional, AI-generated synthetic dataset. AI assisted with dataset development and analysis discussion. The analyst directed the questions, ran and examined SQL results, challenged assumptions, and remains responsible for the interpretations and recommendations presented.
+
+**Data-quality observation:** Comparing all 30 missions by type, recorded threat level, team, outcome, and operating cost revealed frequently repeated costs within mission categories. For example, all three High-threat Containment missions cost $125,000, yet their outcomes were Success, Partial Success, and Failure. This pattern is consistent with standardized or generated cost assumptions, rather than evidence of independently observed operational expenditure.
+
+**Interpretive caution:** Equal recorded operating costs do not require equal outcomes. Different villains, mission conditions, objectives, and personnel may matter even when category and threat labels match. Conversely, different average team costs may largely reflect mission mix. Combat also shows an exception to a single fixed per-mission amount: Foxtrot's failed mission recorded $600,000 and two teams deployed, while the other Combat records were $300,000. The precise cost-generation rule has not been independently verified.
+
+**Scope boundary:** These records cannot establish the suitability of individual resource-allocation decisions or the causes of mission outcomes. Mission planning, readiness, and assignment rationale are suitable questions for a separate operational investigation.
+
+**Analytical lesson:** AI-generated data should be examined for structural assumptions and plausibility, not treated as authoritative merely because SQL computations are valid.
