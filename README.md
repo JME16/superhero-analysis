@@ -35,7 +35,13 @@ These recommendations are **investigative and conditional**, not proof that any 
 - [Mission performance and variance investigations](sql/02_mission_performance.sql): success-rate `CASE` expressions, comparisons by team and mission, a scheduling self-`JOIN`, and hero-level expected-versus-actual damage analysis.
 - [Findings, investigation trail, recommendations, and limitations](results/key_findings.md): detailed evidence, competing explanations, and the boundaries of each conclusion.
 
-The SQL scripts are **read-only analysis queries** written for the project's PostgreSQL tables. The published repository documents the analysis; it does not currently provide a complete one-command database rebuild.
+- [Inspect the actual PostgreSQL schema](sql/01_database_schema.sql): read-only queries for table columns, primary and foreign keys, and core table row counts. This file does **not** create the tables.
+
+The SQL scripts are **read-only analysis and inspection queries** written for the project's PostgreSQL tables. The `data/` directory provides source CSV examples, but the repository does not currently provide the complete DDL, every input dataset, or a one-command database rebuild.
+
+## Supporting Learning Materials
+
+The `docs/` directory contains a project dossier, analysis workbook, question set, and SQL study guides. These are **supplementary working and learning resources**, not additional completed investigations or evidence of SQL results. The main assessment trail is the linked SQL analysis and `results/key_findings.md`.
 
 ## Method and Analytical Decisions
 
