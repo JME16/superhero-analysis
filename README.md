@@ -1,4 +1,4 @@
-uperhero Operations Analysis
+Superhero Operations Analysis
 
 ## Project Overview
 
